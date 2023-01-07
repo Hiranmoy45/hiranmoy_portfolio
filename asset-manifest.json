@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/hiranmoy_portfolio/static/css/main.623d084d.css",
-    "main.js": "/hiranmoy_portfolio/static/js/main.32bfbf8d.js",
+    "main.js": "/hiranmoy_portfolio/static/js/main.ae7723ee.js",
     "static/media/about.jpg": "/hiranmoy_portfolio/static/media/about.73c86f18886fd66ca9e6.jpg",
     "static/media/header.jpg": "/hiranmoy_portfolio/static/media/header.cbd0d51b15c27dbc8ef4.jpg",
-    "static/media/cv.pdf": "/hiranmoy_portfolio/static/media/cv.eb7e7933658a4be6df96.pdf",
     "static/media/project1.png": "/hiranmoy_portfolio/static/media/project1.2b8f3455c8fde919b599.png",
     "static/media/project9.jpg": "/hiranmoy_portfolio/static/media/project9.7e10b78179ee665298cd.jpg",
     "static/media/project6.jpg": "/hiranmoy_portfolio/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
@@ -20,10 +19,10 @@
     "static/media/avatar6.jpg": "/hiranmoy_portfolio/static/media/avatar6.8fbcd9d41881b442663e.jpg",
     "index.html": "/hiranmoy_portfolio/index.html",
     "main.623d084d.css.map": "/hiranmoy_portfolio/static/css/main.623d084d.css.map",
-    "main.32bfbf8d.js.map": "/hiranmoy_portfolio/static/js/main.32bfbf8d.js.map"
+    "main.ae7723ee.js.map": "/hiranmoy_portfolio/static/js/main.ae7723ee.js.map"
   },
   "entrypoints": [
     "static/css/main.623d084d.css",
-    "static/js/main.32bfbf8d.js"
+    "static/js/main.ae7723ee.js"
   ]
 }
