@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/hiranmoy_portfolio/static/css/main.623d084d.css",
-    "main.js": "/hiranmoy_portfolio/static/js/main.ae7723ee.js",
+    "main.js": "/hiranmoy_portfolio/static/js/main.e3392955.js",
     "static/media/about.jpg": "/hiranmoy_portfolio/static/media/about.73c86f18886fd66ca9e6.jpg",
     "static/media/header.jpg": "/hiranmoy_portfolio/static/media/header.cbd0d51b15c27dbc8ef4.jpg",
-    "static/media/project1.png": "/hiranmoy_portfolio/static/media/project1.2b8f3455c8fde919b599.png",
-    "static/media/project9.jpg": "/hiranmoy_portfolio/static/media/project9.7e10b78179ee665298cd.jpg",
-    "static/media/project6.jpg": "/hiranmoy_portfolio/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
-    "static/media/project7.jpg": "/hiranmoy_portfolio/static/media/project7.4389651d5816bb277c4a.jpg",
-    "static/media/project8.jpg": "/hiranmoy_portfolio/static/media/project8.16ed43794953534af05c.jpg",
-    "static/media/project4.jpg": "/hiranmoy_portfolio/static/media/project4.9e2e36250226a4ebb82b.jpg",
-    "static/media/project2.jpg": "/hiranmoy_portfolio/static/media/project2.d4ca506cbd979283014a.jpg",
+    "static/media/6.png": "/hiranmoy_portfolio/static/media/6.addd91ec13915400ef8d.png",
+    "static/media/8.png": "/hiranmoy_portfolio/static/media/8.081aeb475043865aebb8.png",
+    "static/media/9.png": "/hiranmoy_portfolio/static/media/9.7dfa923f9598ee07c5e6.png",
+    "static/media/3.png": "/hiranmoy_portfolio/static/media/3.914a6572d5cc8f76224f.png",
+    "static/media/2.png": "/hiranmoy_portfolio/static/media/2.50d128fa8aaa84a6e747.png",
+    "static/media/5.png": "/hiranmoy_portfolio/static/media/5.e31d3246bc42bc88e2e0.png",
+    "static/media/7.png": "/hiranmoy_portfolio/static/media/7.4eef6601a15b11d6ceb9.png",
+    "static/media/4.png": "/hiranmoy_portfolio/static/media/4.9de50a1c5a8b456d9dca.png",
+    "static/media/1.png": "/hiranmoy_portfolio/static/media/1.4c8295f19ba79012b93b.png",
     "static/media/hiranmoy.png": "/hiranmoy_portfolio/static/media/hiranmoy.2e35e18e9912288649b8.png",
-    "static/media/project3.jpg": "/hiranmoy_portfolio/static/media/project3.746fa9dfecfb9e491ef1.jpg",
-    "static/media/project5.jpg": "/hiranmoy_portfolio/static/media/project5.fdd0c6a0d639a9c75455.jpg",
     "static/media/avatar5.jpg": "/hiranmoy_portfolio/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
     "static/media/avatar7.jpg": "/hiranmoy_portfolio/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
     "static/media/avatar6.jpg": "/hiranmoy_portfolio/static/media/avatar6.8fbcd9d41881b442663e.jpg",
     "index.html": "/hiranmoy_portfolio/index.html",
     "main.623d084d.css.map": "/hiranmoy_portfolio/static/css/main.623d084d.css.map",
-    "main.ae7723ee.js.map": "/hiranmoy_portfolio/static/js/main.ae7723ee.js.map"
+    "main.e3392955.js.map": "/hiranmoy_portfolio/static/js/main.e3392955.js.map"
   },
   "entrypoints": [
     "static/css/main.623d084d.css",
-    "static/js/main.ae7723ee.js"
+    "static/js/main.e3392955.js"
   ]
 }
